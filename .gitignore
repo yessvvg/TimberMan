@@ -1,0 +1,9 @@
+nbproject/
+build/
+bnbuild/
+dist/
+nbdist/
+archivo_entrada.dat
+nbproject/private/
+build.xml
+manifest.mf
